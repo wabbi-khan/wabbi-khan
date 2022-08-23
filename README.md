@@ -1,21 +1,17 @@
 # Hi there, I'm Abdul Wahab Khan 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Wabbi_Khan)
+### Connect with me:
 
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://github.com/wabbi-khan)
+[![website](./img/twitter.svg)](https://twitter.com/Wabbi_Khan)
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/iamwahabkhan/)
+[![website](./img/insta.svg)](https://www.instagram.com/wabbi_khan/)
 
 ## I'm a Front-End Developer, React.js, Next.js !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play cricket / football
-
-### Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/Wabbi_Khan)
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/iamwahabkhan/)
-[![website](./img/instagram-light.svg)](https://www.instagram.com/wabbi_khan/)
+- ⚡ Fun fact: I love to play cricket / football
 
 <!-- [![website](./img/twitter-dark.svg)](https://twitter.com/Wabbi_Khan) -->
 
